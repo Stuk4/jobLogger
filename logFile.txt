@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-28T21:59:48</date>
+  <millis>1567047588625</millis>
+  <sequence>0</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>appender.FileAppender</class>
+  <method>append</method>
+  <thread>1</thread>
+  <message>Carlos</message>
+</record>
+</log>
